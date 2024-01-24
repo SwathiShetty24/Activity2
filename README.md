@@ -1,4 +1,4 @@
-# Improve password to improve security
+# Improve the security of user password
 This project addresses the issue of displaying passwords on the screen during input, which can compromise security. implement improvements, and test their implementations.
 
 # Steps to be followed:
