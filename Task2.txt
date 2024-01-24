@@ -1,4 +1,5 @@
 Hey everyone! here is the code with a lack of security for password input. Currently, when users enter their password, it gets displayed on the screen, which is not ideal for security.
+
 class PasswordManager:
     def get_password(self):
         try:
